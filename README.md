@@ -1,2 +1,2 @@
 # learning
-Learning use git
+Learning use git to build projects
